@@ -1,4 +1,4 @@
-name: Commerce Base
+name: DrupalOrange Profile
 type: profile
 core: 8.x
 description: 'Install with Drupal Commerce pre-configured.'
