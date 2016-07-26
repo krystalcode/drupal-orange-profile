@@ -71,6 +71,25 @@ dependencies:
   - commerce_store
   - commerce_tax
 
+  # Contrib
+  - admin_toolbar
+  - admin_toolbar_tools
+  - contact_storage
+  - ctools
+  #- devel
+  - google_analytics
+  - honeypot
+  - imce
+  - metatag
+  - pathauto
+  - simple_sitemap
+  - taxonomy_menu
+  - token
+  - userprotect
+
+  # Custom
+  #- acro_live_css
+
 themes:
-  - bartik
+  - commerce_bootstrap
   - seven

@@ -1,7 +1,22 @@
 {
-  "name": "drupalcommerce/commerce_base",
+  "name": "AcroMedia/drupalorange_profile",
   "type": "drupal-profile",
   "description": "Commerce 2.x installation profile",
-  "homepage": "https://github.com/drupalcommerce/commerce_base",
-  "license": "GPL-2.0+"
+  "homepage": "https://github.com/AcroMedia/drupalorange_profile",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/admin_toolbar": "^1.15",
+    "drupal/commerce_bootstrap": "^1.x-dev",
+    "drupal/contact_storage": "^1.0-beta4",
+    "drupal/ctools": "^3.0-alpha26",
+    "drupal/google_analytics": "^2.0",
+    "drupal/honeypot": "^1.23",
+    "drupal/imce": "^1.2",
+    "drupal/metatag": "^1.0-beta9",
+    "drupal/pathauto": "^1.0-alpha3",
+    "drupal/simple_sitemap": "^2.5",
+    "drupal/taxonomy_menu": "^3.2",
+    "drupal/token": "^1.0-alpha2",
+    "drupal/userprotect": "^1.0-rc1"
+  }
 }
