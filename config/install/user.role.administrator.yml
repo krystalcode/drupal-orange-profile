@@ -4,5 +4,8 @@ dependencies: {  }
 id: administrator
 label: Administrator
 weight: 2
-is_admin: true
-permissions: {  }
+is_admin: null
+permissions:
+  - 'access contextual links'
+  - 'administer image styles'
+  - 'view own unpublished content'

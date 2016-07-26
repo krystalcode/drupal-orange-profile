@@ -2,11 +2,11 @@ langcode: en
 status: true
 dependencies:
   config:
-    - node.type.page
-id: node.page.promote
+    - node.type.video_gallery_item
+id: node.video_gallery_item.promote
 field_name: promote
 entity_type: node
-bundle: page
+bundle: video_gallery_item
 label: 'Promoted to front page'
 description: ''
 required: false

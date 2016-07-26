@@ -10,9 +10,9 @@ third_party_settings:
       - header
       - main
     parent: 'main:'
-name: Page
-type: page
-description: 'A basic content page.'
+name: 'Service Page'
+type: service_page
+description: ''
 help: ''
 new_revision: false
 preview_mode: 1

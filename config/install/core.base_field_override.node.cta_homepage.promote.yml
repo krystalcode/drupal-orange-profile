@@ -2,15 +2,15 @@ langcode: en
 status: true
 dependencies:
   config:
-    - node.type.page
-id: node.page.promote
+    - node.type.cta_homepage
+id: node.cta_homepage.promote
 field_name: promote
 entity_type: node
-bundle: page
+bundle: cta_homepage
 label: 'Promoted to front page'
 description: ''
 required: false
-translatable: true
+translatable: false
 default_value:
   -
     value: 0

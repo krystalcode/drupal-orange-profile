@@ -2,11 +2,11 @@ langcode: en
 status: true
 dependencies:
   config:
-    - node.type.page
-id: node.page.promote
+    - node.type.service_page
+id: node.service_page.promote
 field_name: promote
 entity_type: node
-bundle: page
+bundle: service_page
 label: 'Promoted to front page'
 description: ''
 required: false

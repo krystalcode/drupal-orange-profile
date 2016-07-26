@@ -10,9 +10,9 @@ third_party_settings:
       - header
       - main
     parent: 'main:'
-name: Page
-type: page
-description: 'A basic content page.'
+name: 'Image Gallery'
+type: image_gallery
+description: 'An Image Gallery displaying multiple images in a rich media element.'
 help: ''
 new_revision: false
 preview_mode: 1

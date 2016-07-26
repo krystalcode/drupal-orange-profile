@@ -5,14 +5,11 @@ dependencies:
     - menu_ui
 third_party_settings:
   menu_ui:
-    available_menus:
-      - footer
-      - header
-      - main
-    parent: 'main:'
-name: Page
-type: page
-description: 'A basic content page.'
+    available_menus: {  }
+    parent: ''
+name: 'Video Gallery Item'
+type: video_gallery_item
+description: ''
 help: ''
 new_revision: false
 preview_mode: 1

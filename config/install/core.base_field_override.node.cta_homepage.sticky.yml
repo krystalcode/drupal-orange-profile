@@ -2,15 +2,15 @@ langcode: en
 status: true
 dependencies:
   config:
-    - node.type.page
-id: node.page.promote
-field_name: promote
+    - node.type.cta_homepage
+id: node.cta_homepage.sticky
+field_name: sticky
 entity_type: node
-bundle: page
-label: 'Promoted to front page'
+bundle: cta_homepage
+label: 'Sticky at top of lists'
 description: ''
 required: false
-translatable: true
+translatable: false
 default_value:
   -
     value: 0
