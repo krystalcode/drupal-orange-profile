@@ -16,30 +16,43 @@ dependencies:
   - color
   - comment
   - config
+  - config_translation
   - contact
+  - content_translation
   - contextual
   - datetime
   - dblog
   - dynamic_page_cache
   - editor
+  - field
   - field_ui
   - file
+  - filter
   - help
   - history
   - image
+  - language
+  - link
+  - locale
   - menu_link_content
   - menu_ui
+  - metatag
   - node
   - options
   - page_cache
   - path
   - quickedit
   - rdf
+  - responsive_image
   - search
   - shortcut
+  - syslog
+  - system
   - taxonomy
+  - telephone
+  - text
   - toolbar
-  - tour
+  - user
   - views
   - views_ui
 
