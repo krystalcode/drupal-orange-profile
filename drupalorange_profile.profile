@@ -18,11 +18,3 @@ function drupalorange_profile_form_install_configure_form_alter(&$form, FormStat
   $form['site_information']['site_name']['#attributes']['placeholder'] = t('My store');
   $form['#submit'][] = 'drupalorange_profile_form_install_configure_submit';
 }
-
-/**
- * Submission handler to sync the contact.form.feedback recipient.
- */
-function drupalorange_profile_form_install_configure_submit($form, FormStateInterface $form_state) {
-  $site_mail = $form_state->getValue('site_mail');
-  ContactForm::load('feedback')->setRecipients([$site_mail])->trustData()->save();
-}
