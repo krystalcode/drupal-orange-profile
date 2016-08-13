@@ -18,7 +18,7 @@
     "drupal/taxonomy_menu": "^3.2",
     "drupal/token": "^1.0-alpha2",
     "drupal/userprotect": "^1.0-rc1",
-    "acromedia/orange_starter": "1.x",
-    "acromedia/orange_framework": "1.x"
+    "acromedia/orange_starter": "dev-8.x-1.x",
+    "acromedia/orange_framework": "dev-8.x-1.x"
   }
 }
