@@ -66,4 +66,6 @@ function drupalorange_profile_install() {
 
   // Enable the admin theme.
   \Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save(TRUE);
+
+  // Can add code in here to make nodes, terms, etc.
 }

@@ -1,10 +1,10 @@
 name: DrupalOrange Profile
 type: profile
 core: 8.x
-description: 'Install with Drupal Commerce pre-configured.'
+description: 'Acro Media Ecom Install.'
 
 distribution:
-  name: 'Drupal'
+  name: 'Orange'
 
 dependencies:
   # Standard
