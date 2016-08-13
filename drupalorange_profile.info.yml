@@ -91,5 +91,6 @@ dependencies:
   #- acro_live_css
 
 themes:
-  - commerce_bootstrap
   - seven
+  - orange_starter
+  - orange_framework
