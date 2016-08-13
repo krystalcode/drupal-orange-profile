@@ -1,7 +1,7 @@
 {
-  "name": "AcroMedia/drupalorange_profile",
+  "name": "acromedia/drupalorange_profile",
   "type": "drupal-profile",
-  "description": "Commerce 2.x installation profile",
+  "description": "Acro Media's Orange installation profile",
   "homepage": "https://github.com/AcroMedia/drupalorange_profile",
   "license": "GPL-2.0+",
   "require": {
@@ -17,6 +17,8 @@
     "drupal/simple_sitemap": "^2.5",
     "drupal/taxonomy_menu": "^3.2",
     "drupal/token": "^1.0-alpha2",
-    "drupal/userprotect": "^1.0-rc1"
+    "drupal/userprotect": "^1.0-rc1",
+    "acromedia/orange_starter": "1.x",
+    "acromedia/orange_framework": "1.x"
   }
 }
