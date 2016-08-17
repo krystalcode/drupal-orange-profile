@@ -18,19 +18,7 @@
     "drupal/token": "^1.0.0-alpha2",
     "drupal/userprotect": "^1.0.0-rc1",
     "acromedia/orange_starter": "dev-8.x-1.x",
-    "acromedia/orange_framework": "dev-8.x-1.x"
-  },
-  "extra": {
-    "installer-paths": {
-      "web/profiles/drupalorange_profile/libraries/{$name}": [
-        "type:drupal-library"
-      ],
-      "web/profiles/drupalorange_profile/modules/{$name}": [
-        "type:drupal-module"
-      ],
-      "web/profiles/drupalorange_profile/themes/{$name}": [
-        "type:drupal-theme"
-      ]
-    }
+    "acromedia/orange_framework": "dev-8.x-1.x",
+    "acromedia/acro_live_css": "dev-8.x-1.x"
   }
 }

@@ -88,7 +88,7 @@ dependencies:
   - userprotect
 
   # Custom
-  #- acro_live_css
+  - acro_live_css
 
 themes:
   - seven
