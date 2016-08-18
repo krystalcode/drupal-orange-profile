@@ -18,3 +18,10 @@ function drupalorange_profile_form_install_configure_form_alter(&$form, FormStat
   $form['site_information']['site_name']['#attributes']['placeholder'] = t('My store');
   $form['#submit'][] = 'drupalorange_profile_form_install_configure_submit';
 }
+
+/**
+ * Submission handler to sync/react to additional settings.
+ */
+function drupalorange_profile_form_install_configure_submit($form, FormStateInterface $form_state) {
+  // Nothing here yet.
+}
