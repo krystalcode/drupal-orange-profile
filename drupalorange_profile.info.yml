@@ -69,7 +69,7 @@ dependencies:
   - commerce_product
   - commerce_price
   - commerce_store
-  - commerce_tax
+  #- commerce_tax
 
   # Contrib
   - admin_toolbar
