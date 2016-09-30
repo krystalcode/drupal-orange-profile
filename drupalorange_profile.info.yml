@@ -82,7 +82,7 @@ dependencies:
   - imce
   - metatag
   - pathauto
-  - simple_sitemap
+  #- simple_sitemap
   - taxonomy_menu
   - token
   - userprotect
