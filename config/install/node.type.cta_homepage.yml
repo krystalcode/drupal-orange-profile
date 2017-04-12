@@ -7,6 +7,7 @@ third_party_settings:
   menu_ui:
     available_menus: {  }
     parent: ''
+_core:
 name: 'CTA - Homepage'
 type: cta_homepage
 description: 'A CTA (Call-To-Action) that will be displayed on the homepage.'

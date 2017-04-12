@@ -3,6 +3,7 @@ status: true
 dependencies:
   config:
     - node.type.image_gallery
+_core:
 id: node.image_gallery.uid
 field_name: uid
 entity_type: node

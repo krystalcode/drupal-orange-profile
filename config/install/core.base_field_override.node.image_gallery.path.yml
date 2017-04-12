@@ -5,6 +5,7 @@ dependencies:
     - node.type.image_gallery
   module:
     - path
+_core:
 id: node.image_gallery.path
 field_name: path
 entity_type: node

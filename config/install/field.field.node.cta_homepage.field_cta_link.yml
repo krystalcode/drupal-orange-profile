@@ -6,6 +6,7 @@ dependencies:
     - node.type.cta_homepage
   module:
     - link
+_core:
 id: node.cta_homepage.field_cta_link
 field_name: field_cta_link
 entity_type: node

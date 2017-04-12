@@ -4,6 +4,7 @@ dependencies:
   module:
     - link
     - node
+_core:
 id: node.field_cta_link
 field_name: field_cta_link
 entity_type: node

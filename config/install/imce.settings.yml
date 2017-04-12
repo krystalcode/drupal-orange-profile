@@ -5,3 +5,4 @@ roles_profiles:
   authenticated:
     public: admin
 abs_url: null
+_core:

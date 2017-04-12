@@ -4,6 +4,7 @@ dependencies:
   module:
     - node
     - text
+_core:
 id: node.field_image_gallery_overview
 field_name: field_image_gallery_overview
 entity_type: node

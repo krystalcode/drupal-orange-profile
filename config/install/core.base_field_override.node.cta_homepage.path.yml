@@ -5,6 +5,7 @@ dependencies:
     - node.type.cta_homepage
   module:
     - path
+_core:
 id: node.cta_homepage.path
 field_name: path
 entity_type: node

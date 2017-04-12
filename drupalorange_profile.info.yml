@@ -1,13 +1,13 @@
-name: DrupalOrange Profile
+name: Drupal Orange Profile
 type: profile
 core: 8.x
-description: 'Acro Media Ecom Install.'
+description: 'Acro Media eCommerce install profile.'
 
 distribution:
   name: 'Orange'
 
 dependencies:
-  # Standard
+  # Standard.
   - automated_cron
   - block
   - block_content
@@ -56,7 +56,7 @@ dependencies:
   - views
   - views_ui
 
-  # Commerce
+  # Commerce.
   - address
   - entity
   - profile
@@ -71,23 +71,25 @@ dependencies:
   - commerce_store
   #- commerce_tax
 
-  # Contrib
+  # Contrib.
   - admin_toolbar
   - admin_toolbar_tools
-  - contact_storage
   - ctools
-  #- devel
+  - field_group
   - google_analytics
   - honeypot
   - imce
+  - menu_block
   - metatag
   - pathauto
   #- simple_sitemap
   - taxonomy_menu
   - token
   - userprotect
+  - webform
+  - webform_ui
 
-  # Custom
+  # Custom.
   - acro_live_css
 
 themes:

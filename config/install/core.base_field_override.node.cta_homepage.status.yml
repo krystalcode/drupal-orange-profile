@@ -3,6 +3,7 @@ status: true
 dependencies:
   config:
     - node.type.cta_homepage
+_core:
 id: node.cta_homepage.status
 field_name: status
 entity_type: node

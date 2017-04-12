@@ -6,6 +6,7 @@ dependencies:
     - node.type.cta_homepage
   module:
     - text
+_core:
 id: node.cta_homepage.body
 field_name: body
 entity_type: node

@@ -3,6 +3,7 @@ status: true
 dependencies:
   config:
     - node.type.cta_homepage
+_core:
 id: node.cta_homepage.sticky
 field_name: sticky
 entity_type: node

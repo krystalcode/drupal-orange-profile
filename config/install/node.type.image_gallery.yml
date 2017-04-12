@@ -10,6 +10,7 @@ third_party_settings:
       - header
       - main
     parent: 'main:'
+_core:
 name: 'Image Gallery'
 type: image_gallery
 description: 'An Image Gallery displaying multiple images in a rich media element.'

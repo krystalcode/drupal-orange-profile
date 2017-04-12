@@ -3,6 +3,7 @@ status: true
 dependencies:
   config:
     - node.type.cta_homepage
+_core:
 id: node.cta_homepage.promote
 field_name: promote
 entity_type: node

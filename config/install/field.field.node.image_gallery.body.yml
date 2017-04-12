@@ -6,6 +6,7 @@ dependencies:
     - node.type.image_gallery
   module:
     - text
+_core:
 id: node.image_gallery.body
 field_name: body
 entity_type: node

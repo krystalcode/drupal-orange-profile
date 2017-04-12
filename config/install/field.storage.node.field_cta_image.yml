@@ -5,6 +5,7 @@ dependencies:
     - file
     - image
     - node
+_core:
 id: node.field_cta_image
 field_name: field_cta_image
 entity_type: node
