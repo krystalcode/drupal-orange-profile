@@ -18,7 +18,7 @@
     "drupal/taxonomy_menu": "dev-3.x",
     "drupal/token": "^1.0.0-alpha2",
     "drupal/userprotect": "^1.0.0-rc1",
-    "drupal/webform": "5.x-dev",
+    "drupal/webform": "^5.0-beta13",
     "acromedia/orange_starter": "dev-8.x-1.x",
     "acromedia/orange_framework": "dev-8.x-1.x",
     "acromedia/acro_live_css": "dev-8.x-1.x"
