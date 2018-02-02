@@ -15,7 +15,7 @@
     "drupal/metatag": "dev-1.x",
     "drupal/pathauto": "^1.0.0-alpha3",
     "drupal/simple_sitemap": "^2.5.0",
-    "drupal/taxonomy_menu": "dev-3.x",
+    "drupal/taxonomy_menu": "^3.3",
     "drupal/token": "^1.0.0-alpha2",
     "drupal/userprotect": "^1.0.0-rc1",
     "drupal/webform": "^5.0-beta13",
