@@ -1,4 +1,0 @@
-interface:
-  default: php_mail
-  webform: webform_php_mail
-_core:

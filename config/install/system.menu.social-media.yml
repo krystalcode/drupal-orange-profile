@@ -1,8 +1,0 @@
-langcode: zxx
-status: true
-dependencies: {  }
-_core:
-id: social-media
-label: 'Social Media'
-description: 'Social Media Links'
-locked: false
